@@ -1,0 +1,41 @@
+body{
+	background-image:url(images/news_bg.jpg);
+	
+	
+	
+}
+
+
+
+
+#preview {
+  position: absolute;
+  background-color:#000000;
+}
+
+
+#slideshow {
+
+ 	position: relative;
+  	overflow: hidden;
+	width:60%;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:25px;
+	max-width:1332px;
+	
+}
+#linklist li{
+	margin-top:20px;
+	margin-bottom:20px;
+	list-style:none;
+}
+
+#linklist {
+	margin-left:auto;
+	margin-right:auto;
+	width:200px;
+	height:150px;
+	float:left;
+	
+}
